@@ -70,7 +70,7 @@ Upon termination, all rights granted to you under these Terms will immediately c
 
 ## 7. Privacy
 
-Your use of the Service is governed by our [Privacy Policy](https://stailo.app/privacy-policy). We collect and use your data only as described therein. By using Stailo, you consent to our data practices.
+Your use of the Service is governed by our [Privacy Policy]([https://stailo.app/privacy-policy](https://stailo-ai.github.io/stailo.github.io/privacy.html)). We collect and use your data only as described therein. By using Stailo, you consent to our data practices.
 
 ---
 
