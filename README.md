@@ -1,7 +1,3 @@
-Certainly. Here's the finalized **Terms of Service** for your Instagram automation app **Stailo**, with no placeholders or blanks left:
-
----
-
 # Terms of Service
 
 **Effective Date:** May 7, 2025
@@ -108,4 +104,3 @@ If you have any questions about these Terms or the Service, please contact us:
 
 ---
 
-Would you like a **matching Privacy Policy** or a **user license agreement** to accompany this?
